@@ -1,1 +1,3 @@
 Mis Objetivos:
+
+    - Adquirirás conocimientos sólidos en tecnologías esenciales para el desarrollo del lado del cliente (Frontend).
