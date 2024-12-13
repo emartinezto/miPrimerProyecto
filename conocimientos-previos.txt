@@ -2,3 +2,4 @@ Conocimientos previos:
 
     -   HTML
     -   CSS
+    -   JS
