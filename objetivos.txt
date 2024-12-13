@@ -1,1 +1,7 @@
 Mis Objetivos:
+
+    - Adquirirás conocimientos sólidos en tecnologías esenciales para el desarrollo del lado del cliente (Frontend).
+
+    - Aprenderás a manejar las tecnologías necesarias para el desarrollo del lado del servidor (Backend)
+
+    - desarrollar proyectos reales
